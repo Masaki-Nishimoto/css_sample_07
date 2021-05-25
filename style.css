@@ -39,10 +39,10 @@ main{
   }
   nav ul{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
   }
   nav ul li{
-    margin-right: 2rem;
+    margin-bottom: 1rem;
   }
   nav ul li a {
     color: #ffffff;
